@@ -1,25 +1,26 @@
-# Hi 👋, I'm Rushikesh Narke
+<h1 align="center">Hi 👋, I'm Rushikesh Narke</h1>
+<h3 align="center">💻 Computer Engineering Student | Java Developer | Full-Stack Web Developer</h3>
 
-### 💻 Computer Engineering Student | Java Developer | Full-Stack Web Developer
-
-I'm a Computer Engineering student from **Maharashtra, India 🇮🇳** who enjoys building real-world applications and continuously improving my programming and problem-solving skills.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Java+Developer;Full-Stack+Web+Developer;Learning+Spring+Boot+%26+MERN+Stack;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Computer Engineering Student
-- 💻 Passionate about Software Development & Full-Stack Web Development
-- ☕ Currently learning Java, DSA, Spring Boot, React, and the MERN Stack
-- 🚀 Building projects to strengthen my practical development skills
-- 🧩 Love solving coding and algorithmic problems
-- 🔧 Interested in Backend Development, REST APIs, and Databases
-- 🌱 Exploring new technologies every day
+- 🎓 Computer Engineering Student from Maharashtra, India 🇮🇳
+- 💻 Passionate about Software Development and Full-Stack Web Development
+- ☕ Currently learning **Java, DSA, Spring Boot, React, and the MERN Stack**
+- 🚀 Love building real-world projects to improve my development skills
+- 🧩 Enjoy solving coding and problem-solving challenges
+- 🔧 Interested in Backend Development, REST APIs, and Database Management
+- 🌱 Always exploring new technologies
 - 🎯 Goal: Become a skilled Software Engineer
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
@@ -36,7 +37,7 @@ I'm a Computer Engineering student from **Maharashtra, India 🇮🇳** who enjo
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
 
 ---
@@ -44,11 +45,8 @@ I'm a Computer Engineering student from **Maharashtra, India 🇮🇳** who enjo
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rushikesh743-maker&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh743-maker&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -56,9 +54,15 @@ I'm a Computer Engineering student from **Maharashtra, India 🇮🇳** who enjo
 ## 🔥 GitHub Streak
 
 <p align="center">
+<img src="https://streak-stats.demolab.com?user=Rushikesh743-maker&theme=tokyonight"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+---
 
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushikesh743-maker&theme=tokyo-night"/>
 </p>
 
 ---
@@ -66,23 +70,21 @@ I'm a Computer Engineering student from **Maharashtra, India 🇮🇳** who enjo
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=6"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Rushikesh743-maker&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
-<p>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<p align="left">
 
 <a href="mailto:Rushikeshnarke3@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rushikesh-narke-2404bb32a">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/rushik3sh_121">
@@ -93,26 +95,41 @@ I'm a Computer Engineering student from **Maharashtra, India 🇮🇳** who enjo
 
 ---
 
-## 🎯 Currently Working On
+## 🎯 Currently Learning
 
-- 📚 Data Structures & Algorithms
-- 🌐 MERN Stack Development
-- ☕ Spring Boot REST APIs
-- ⚛️ React Projects
-- 💡 Building Portfolio Projects
+- ☕ Java
+- 🌱 Spring Boot
+- ⚛️ React
+- 🌐 MERN Stack
+- 🧩 Data Structures & Algorithms
 
 ---
 
-## 📈 Profile Views
+## 📌 Featured Projects
+
+- 💼 Career Orientation & Skill Development Website
+- 📄 AI Resume Builder with PDF Generation
+- 🤖 Resume Review Chatbot
+- 🌐 React + Spring Boot Projects
+
+---
+
+## 👀 Profile Views
 
 <p>
+<img src="https://komarev.com/ghpvc/?username=Rushikesh743-maker&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Rushikesh743-maker/Rushikesh743-maker/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
 
 ## ✨ Quote
 
-> "Consistency beats intensity. Keep building, keep learning."
+> **"Code. Learn. Build. Repeat. Every project is a step toward becoming a better developer."**
