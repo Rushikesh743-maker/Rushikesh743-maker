@@ -122,14 +122,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Rushikesh743-maker/Rushikesh743-maker/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
-
 ## ✨ Quote
 
 > **"Code. Learn. Build. Repeat. Every project is a step toward becoming a better developer."**
